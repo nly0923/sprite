@@ -1,0 +1,53 @@
+@charset 'UTF-8';
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+#form{
+	width: 1308px;
+	height: 382px;
+}
+#header{
+	width: 90px;
+	height: 90px;
+	background-image: url('C:/Users/e/Pictures/Saved Pictures/02.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+#cp{
+	width: 1308px;
+	height: 46px;
+}
+.ss{
+	font-size: 15px;
+    color: #666;
+    line-height: 26px;/*行高*/
+    font-family: "microsoft yahei";
+    text-align: center;
+    font-weight: 700px;
+}
+.hh{
+	margin-top: 20px;
+	font-size: 15px;
+    color: #999;
+    line-height: 26px;/*行高*/
+    font-family: "microsoft yahei";
+    text-align: center;
+    font-weight: 700px;
+}
+.cp{
+	font-size: 15px;
+    color: #999;
+    line-height: 26px;/*行高*/
+    font-family: "microsoft yahei";
+    text-align: center;
+    font-weight: 700px;
+}
+a{
+	color: #999;
+	margin: 0 10px;
+}
+.no-l{
+	margin: 0 ;/*间距*/
+}
